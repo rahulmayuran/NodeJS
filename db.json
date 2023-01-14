@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Stunt pack",
+      "price": 322.5,
+      "quantity": 2,
+      "color": "orange",
+      "id": "0124081a-4daa-425a-bb40-d5c016893fe3",
+      "description": "Has a guide to stunts/ live demos by a trainer, To be used by experts"
+    },
+    {
+      "name": "Vegetable Chopper",
+      "quantity": "1",
+      "price": "12",
+      "color": "White",
+      "description": "Does it need a description? Don't you know why we use it?",
+      "id": "de209ab9-c5cd-45ea-b497-913c249ac65c"
+    },
+    {
+      "name": "FlipKart",
+      "quantity": 2,
+      "price": "33",
+      "color": "black",
+      "description": "T-Shirt with a brand ",
+      "id": "b4a77bb3-e0b8-4f16-82e7-f3cd084678ce"
+    },
+    {
+      "name": "Swiss Army Knife",
+      "quantity": 2,
+      "price": 345.7,
+      "color": "black",
+      "description": "Caution!, The Swiss Army knife is the ultimate multi-tool. Whether you need a magnifying glass to read fine print or a metal saw to cut through iron, the Swiss Army knife has your back. In addition to a blade, these gadgets include various implements such as screwdrivers, bottle openers, and scissors.",
+      "id": "b8e88993-5e87-4667-860c-f48bec6aa505"
+    }
+  ]
+}
